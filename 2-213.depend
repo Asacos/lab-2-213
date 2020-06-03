@@ -1,0 +1,19 @@
+# depslib dependency file v1.0
+1589658514 source:c:\users\пользователь\desktop\c-projects\2-213\main.cpp
+	<iostream>
+	<cstring>
+	"car.h"
+	"func.h"
+
+1589657018 c:\users\пользователь\desktop\c-projects\2-213\car.h
+	<iostream>
+	<cstring>
+
+1589638595 c:\users\пользователь\desktop\c-projects\2-213\func.h
+	<iostream>
+	<cstring>
+	"car.h"
+
+1589638595 source:c:\users\пользователь\desktop\c-projects\2-213\func.cpp
+	"func.h"
+
